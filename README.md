@@ -1,18 +1,64 @@
-# WC-Costa-Rica-2025
-Resources and notes from my talk at WC San José
+# Revolucionando WordPress: Innovaciones de IA que Transforman tu Trabajo Diario
 
-## Slides
-You can find the slides from the presentation here:
+Este repositorio acompaña mi charla en **WordCamp San José, Costa Rica (2025)**.  
+Incluye las diapositivas, ejemplos de código y recursos adicionales para seguir explorando cómo la inteligencia artificial puede potenciar nuestro trabajo con WordPress.
 
-## Examples
-Examples can be found in the `examples` folder in this repository.
+---
 
-## Where to learn more?
-My team at WordPress.com host webinars talking about AI, development, WordPress, and much more. Webinars are listed here, and it is free to sign up.
+## 📘 Presentación
 
-We also have a newsletter you can sign up to here:
+**Título:** Revolucionando WordPress: Innovaciones de IA que Transforman tu Trabajo Diario  
+**Ponente:** Even Tobiesen  
+**Evento:** WordCamp San José, Costa Rica 2025  
+**Duración:** 30 minutos
+
+---
+
+## 🖼️ Diapositivas
+
+Puedes ver las diapositivas completas aquí:
+
+👉 [Ver presentación (slides.pdf)](./slides.pdf)
+
+También puedes consultar las **notas de la presentación** (comentarios y guion de charla):
+
+📄 [Notas de las diapositivas](./slide-notes.md)
+
+---
+
+## 💡 Ejemplos y demostraciones
+
+A continuación, algunos ejemplos y demos mencionados durante la charla:
+
+- 🧩 **WordPress AI building blocks**  
+
+---
+
+## 🔗 Recursos recomendados
+
+Algunos recursos adicionales para profundizar en los temas tratados:
 
 
-## Feedback and contact
-If you have any feedback, questions, or would like to get in touch, you can reach me at e.tobiesen@gmail.com
+---
 
+## 🧭 Cómo usar este repositorio
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/gmovr/WC-Costa-Rica-2025.git && cd ./WC-Costa-Rica-2025
+   ```
+
+2. Explora los ejemplos dentro del directorio `/ejemplos/`.
+3. Abre las diapositivas en cualquier visor PDF o desde el navegador.
+
+---
+
+## ✉️ Contacto
+
+Si tienes preguntas o comentarios, puedes contactarme en:
+
+- https://tobiesen.com
+- even.tobiesen@automattic.com
+- https://www.linkedin.com/in/eventobiesen/
+
+---
