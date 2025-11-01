@@ -20,23 +20,30 @@ Puedes ver las diapositivas completas aquí:
 
 👉 [Ver presentación (slides.pdf)](./slides.pdf)
 
-También puedes consultar las **notas de la presentación** (comentarios y guion de charla):
-
-📄 [Notas de las diapositivas](./slide-notes.md)
-
 ---
 
 ## 💡 Ejemplos y demostraciones
 
 A continuación, algunos ejemplos y demos mencionados durante la charla:
 
-- 🧩 **WordPress AI building blocks**  
+🧩 [**WordPress AI building blocks**](https://make.wordpress.org/ai/2025/07/17/ai-building-blocks/)
+
+- [@automattic/mcp-wordpress-remote](https://github.com/Automattic/mcp-wordpress-remote)
+- [PHP AI Client SDK](https://github.com/WordPress/php-ai-client)
+- [Abilities API](https://github.com/WordPress/abilities-api)
+- [MCP Adapter](https://github.com/WordPress/mcp-adapter)
+- [WordPress AI Experiments](https://github.com/WordPress/ai)
 
 ---
 
 ## 🔗 Recursos recomendados
 
 Algunos recursos adicionales para profundizar en los temas tratados:
+- `#core-ai` en Slack
+- [MCP Adapter Implementation Example](https://github.com/galatanovidiu/mcp-adapter-implementation-example/tree/test/major-refactor-plus-features)
+- [https://wordpress.tv/2025/09/03/core-ai-what-were-building/](https://wordpress.tv/2025/09/03/core-ai-what-were-building/)
+- [https://make.wordpress.org/ai/2025/07/17/ai-building-blocks/](https://make.wordpress.org/ai/2025/07/17/ai-building-blocks/)
+
 
 
 ---
